@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  A privacy pools research project by <strong>Hylsia Research</strong>, built for Robinhood Chain Testnet.
+  A privacy pools research project by <strong>Hylsia Research</strong>
 </p>
 
 <p align="center">
