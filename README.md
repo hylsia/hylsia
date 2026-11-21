@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://hylsiapools.tech/">
-    <img src="client/public/brand/hylsia/mark-256.png" alt="Hylsia logo" width="88" height="88" />
+    <img src="https://www.hylsiapools.tech/brand/hylsia/mark-256.png" alt="Hylsia logo" width="88" height="88" />
   </a>
 </p>
 
